@@ -43,12 +43,13 @@ body {
 }
 
 body, input, button, textarea {
-   font: 500 1.6rem;
+   font-weight: 500;
+   font-size: 1.6rem;
    font-family: 'Poppins', sans-serif;
 }
 
 .container {
-   width: 90%;
+   width: 90vw;
    max-width: 700px;
 }
 
